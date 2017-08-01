@@ -1,0 +1,23 @@
+{
+  "name": "@types/randomatic",
+  "version": "1.0.0",
+  "description": "Typescript definition for randomatic package",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottoasis/types-randomatic.git"
+  },
+  "keywords": [
+    "Typescript",
+    "randomatic"
+  ],
+  "author": "Scott Wang <me@scottoas.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottoasis/types-randomatic/issues"
+  },
+  "homepage": "https://github.com/scottoasis/types-randomatic#readme"
+}
